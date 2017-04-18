@@ -1,0 +1,3 @@
+/Users/huibin/AndroidProject/FFmpegSample/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/edit_cache.dir
+/Users/huibin/AndroidProject/FFmpegSample/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/rebuild_cache.dir
+/Users/huibin/AndroidProject/FFmpegSample/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/native-lib.dir
